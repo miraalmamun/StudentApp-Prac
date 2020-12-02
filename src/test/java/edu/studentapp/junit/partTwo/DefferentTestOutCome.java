@@ -15,7 +15,6 @@ import net.serenitybdd.rest.SerenityRest;
 import net.thucydides.core.annotations.Manual;
 import net.thucydides.core.annotations.Pending;
 import net.thucydides.core.annotations.Title;
-import net.thucydides.core.annotations.WithTag;
 
 @RunWith(SerenityRunner.class)
 public class DefferentTestOutCome {
@@ -34,7 +33,7 @@ public class DefferentTestOutCome {
 		SerenityRest.rest().when().get("/list").then().statusCode(200);
 	}
 	
-	@WithTag("StudentFeature:POSITIVE")
+	
 	@Test
 	public void thisTestFail()
 	{
