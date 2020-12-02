@@ -1,0 +1,12 @@
+edu\studentapp\cucumber\serenity\StudentSerenitySteps.class
+edu\studentapp\junit\StudentCRUD\StudentCRUDTest2.class
+edu\studentapp\junit\partOne\FirstSerenityTest3.class
+edu\studentapp\utilities\ReuseableSpecification.class
+edu\studentapp\testbase\TestBase.class
+edu\studentapp\junit\partOne\FirstSerenityTest2.class
+edu\studentapp\junit\StudentCRUD\CreateStudentDataDrivenTest.class
+edu\studentapp\junit\partOne\FirstSerenityTest.class
+edu\studentapp\junit\partTwo\DefferentTestOutCome.class
+edu\studentapp\junit\StudentCRUD\StudentCRUDTest.class
+edu\studentapp\cucumber\grouping\TagsTest.class
+edu\studentapp\utilities\GetRandomNumber.class
