@@ -1,6 +1,8 @@
 edu\studentapp\cucumber\serenity\StudentSerenitySteps.class
+edu\studentapp\cucumber\steps\StudentSteps.class
 edu\studentapp\junit\StudentCRUD\StudentCRUDTest2.class
 edu\studentapp\junit\partOne\FirstSerenityTest3.class
+edu\studentapp\cucumber\StudentRunner.class
 edu\studentapp\utilities\ReuseableSpecification.class
 edu\studentapp\testbase\TestBase.class
 edu\studentapp\junit\partOne\FirstSerenityTest2.class

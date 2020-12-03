@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="1" name="edu.studentapp.junit.partTwo.DefferentTestOutCome" skipped="4" tests="7" time="3.17" timestamp="2020-12-338 12:02:16"><testcase classname="edu.studentapp.junit.partTwo.DefferentTestOutCome" name="This test fail"><failure message="1 expectation failed.&#10;Expected status code &lt;400&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;400&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;400&gt; but was &lt;200&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+edu.studentapp.junit.partTwo.DefferentTestOutCome.thisTestFail(DefferentTestOutCome.java:40)&#13;
+</system-err></testcase><testcase classname="edu.studentapp.junit.partTwo.DefferentTestOutCome" name="Get all informations of the students from student App"/><testcase classname="edu.studentapp.junit.partTwo.DefferentTestOutCome" name="This test skip"><skipped/></testcase><testcase classname="edu.studentapp.junit.partTwo.DefferentTestOutCome" name="This test run manually"><skipped/></testcase><testcase classname="edu.studentapp.junit.partTwo.DefferentTestOutCome" name="This test panding"><skipped/></testcase><testcase classname="edu.studentapp.junit.partTwo.DefferentTestOutCome" name="This test file not found excep"><compromised message="" type="java.io.FileNotFoundException"/><system-err>&#13;
+edu.studentapp.junit.partTwo.DefferentTestOutCome.thisTestFileNotFoundExcep(DefferentTestOutCome.java:79)&#13;
+</system-err></testcase><testcase classname="edu.studentapp.junit.partTwo.DefferentTestOutCome" name="This test error"><error message="/ by zero" type="java.lang.ArithmeticException">/ by zero</error><system-err>/ by zero&#13;
+edu.studentapp.junit.partTwo.DefferentTestOutCome.thisTestError(DefferentTestOutCome.java:46)&#13;
+</system-err></testcase></testsuite>

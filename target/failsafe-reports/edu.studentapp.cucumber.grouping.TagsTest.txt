@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: edu.studentapp.cucumber.grouping.TagsTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.342 sec - in edu.studentapp.cucumber.grouping.TagsTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.903 sec - in edu.studentapp.cucumber.grouping.TagsTest
